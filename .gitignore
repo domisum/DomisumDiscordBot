@@ -9,3 +9,5 @@ hibernate.cfg.xml
 .settings/
 target/
 .idea/
+
+TestLauncher.java
